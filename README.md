@@ -1,1 +1,1 @@
-# FEUP_SOPE
+# FEUP SOPE projects
